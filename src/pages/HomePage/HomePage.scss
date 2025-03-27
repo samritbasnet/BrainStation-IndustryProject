@@ -1,0 +1,65 @@
+.homepage {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-color: #000;
+    height: 100vh;
+    width: 100vw;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #111;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.header h1 {
+    font-size: 24px;
+}
+
+.header nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.header nav ul li {
+    margin: 0 10px;
+}
+
+.todays-picks,
+.continue-watching {
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.cards {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: flex-start;
+}
+
+.card {
+    flex: 0 0 auto;
+    width: 200px;
+    padding: 10px;
+    background-color: #222;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}

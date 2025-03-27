@@ -1,0 +1,22 @@
+@use "../../styles/colors" as *;
+@use "../../styles/mixins" as *;
+
+.footer {
+
+  &__container {
+    color: $Slate;
+    font-style: normal;
+    font-weight: 400;
+    font-size: .6875rem;
+    line-height: 1rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    @include tablet {
+      font-size: .75rem;
+      line-height: 1.125rem;
+    }
+  }
+}
