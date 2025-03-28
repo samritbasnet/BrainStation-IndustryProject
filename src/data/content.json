@@ -2,7 +2,17 @@
     "todaysPicks": [
         {
             "title": "Coyotl: Hero and Beast",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
+            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0",
+            "question": [
+                "what is 1 + 1"
+            ],
+            "answers": [
+                "The answer is 1",
+                "The answer is 2",
+                "The answer is 3 ",
+                "The answer is 4"
+            ],
+            "answer": "The answer is 2"
         },
         {
             "title": "The Righteous Gemstones",

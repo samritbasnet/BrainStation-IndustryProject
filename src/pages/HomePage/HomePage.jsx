@@ -1,6 +1,7 @@
 import React from 'react';
 import './HomePage.scss';
 import content from '../../data/content.json';
+import video from "../../assets/commercial.mp4"
 
 const HomePage = () => {
     return (
@@ -42,6 +43,14 @@ const HomePage = () => {
                     ))}
                 </div>
             </section>
+            <video
+                autoPlay
+                muted
+                playsInline
+                className="custom-video"
+            >
+                <source src={video} type="video/mp4" />
+            </video>
         </div>
     );
 };
