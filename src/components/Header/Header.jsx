@@ -1,13 +1,15 @@
 import { FiBookmark, FiSearch, FiUser } from "react-icons/fi";
-import { NavLink } from "react-router-dom";
-import image from '../../assets/logo/image.png';
+import { NavLink, useLocation } from "react-router-dom";
 import "./Header.scss";
+
 const Header = () => {
+    const location = useLocation();
+
     return (
         <nav className="header">
 
             <NavLink to="/" className="header__logo">
-                <img src={image} alt="Max Logo" className="header__logo-img" />
+                <img src="src/assets/logo/image.png" alt="Max Logo" className="header__logo-img" />
             </NavLink>
 
             <div className="header__left">

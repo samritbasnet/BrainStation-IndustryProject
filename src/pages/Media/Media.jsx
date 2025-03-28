@@ -1,6 +1,6 @@
 import './Media.scss';
 import { useState, useEffect, useRef } from 'react';
-import video1 from "../../assets/clip1.mp4";
+import video1 from "../../assets/bat.mp4";
 import video2 from "../../assets/clip2.mp4";
 import video3 from "../../assets/clip3.mp4";
 import video4 from "../../assets/movie.mp4";
@@ -11,14 +11,14 @@ const quizData = [
         videoId: 'video1',
         questions: [
             {
-                question: "According to the cat, why should Stuart run?",
-                options: ["Because he's family?", "Because he's a mouse", "Because his tail is on fire"],
-                correctAnswer: 1
+                question: "What is the batman chasing in the scene?",
+                options: ["The Penguin", "The joker", "The Riddler"],
+                correctAnswer: 0
             },
             {
-                question: "According to the cat, why should Stuart run",
-                options: ["Because he's family?", "Because he's a mouse", "Because his tail is on fire"],
-                correctAnswer: 1
+                question: "What is the batman chasing in the scene?",
+                options: ["The Penguin", "The joker", "The Riddler"],
+                correctAnswer: 0
             }
         ]
     },
