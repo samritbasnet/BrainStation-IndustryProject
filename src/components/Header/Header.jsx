@@ -1,6 +1,8 @@
 import { FiBookmark, FiSearch, FiUser } from "react-icons/fi";
 import { NavLink, useLocation } from "react-router-dom";
 import "./Header.scss";
+import image from "../../assets/logo/image.png"
+
 
 const Header = () => {
     const location = useLocation();
@@ -9,9 +11,8 @@ const Header = () => {
         <nav className="header">
 
             <NavLink to="/" className="header__logo">
-                <img src="src/assets/logo/image.png" alt="Max Logo" className="header__logo-img" />
+                <img src={image} alt="Max Logo" className="header__logo-img" />
             </NavLink>
-
             <div className="header__left">
                 <div className="header__nav-group">
                     <div className="header__links">
