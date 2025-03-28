@@ -1,56 +1,144 @@
 {
     "todaysPicks": [
         {
-            "title": "Coyotl: Hero and Beast",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0",
-            "question": [
-                "what is 1 + 1"
-            ],
-            "answers": [
-                "The answer is 1",
-                "The answer is 2",
-                "The answer is 3 ",
-                "The answer is 4"
-            ],
-            "answer": "The answer is 2"
-        },
-        {
-            "title": "The Righteous Gemstones",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
-        },
-        {
-            "title": "The White Lotus",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
-        },
-        {
-            "title": "Vice Principals",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
-        },
-        {
             "title": "Paul American",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmQwMTE4ZTQtNWY5OC00OTM5LTliNmItMWFkY2YzZjVjOTBkXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+            "title": "Dune: Prophecy",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTc2YTFiOTItZmRiNi00OWE5LThhOTEtMmZhMTkzYmRiNjIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Pirates of the Caribbean",
             "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
         },
         {
-            "title": "Hollywood Demons",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
+            "title": "The Walking Dead",
+            "image": "https://m.media-amazon.com/images/I/61g-Tch64uL.jpg"
+        },
+        {
+            "title": "Game of Thrones",
+            "image": "https://m.media-amazon.com/images/I/61+5mMtkPbL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Spider-Man",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Hunger Games",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Kingdom of the Planet of the Apes",
+            "image": "https://m.media-amazon.com/images/I/81PqziEQvBL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Stuart Little",
+            "image": "https://resizing.flixster.com/oa2WPTksS7zHEpD71nHdWUvWFL8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24380_p_v10_ae.jpg"
+        },
+        {
+            "title": "Companion",
+            "image": "https://m.media-amazon.com/images/S/pv-target-images/3b1989d8c80da2b8252b7b570dcfc6a5ef76a7d1122a2645be0464a3cd828e0a.jpg"
         }
     ],
     "continueWatching": [
         {
-            "title": "The Big Bang Theory",
+            "title": "Inception",
+            "image": "https://m.media-amazon.com/images/I/71uKM+LdgFL.jpg"
+        },
+        {
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "image": "https://m.media-amazon.com/images/I/81EBp0vOZZL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Joker",
+            "image": "https://m.media-amazon.com/images/I/31J8gN3sRPL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Wonder Woman",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOA_mmfGWMS9yos4kQH8IcpotFJwq1fTEQgA&s"
+        },
+        {
+            "title": "Westworld",
+            "image": "https://i.ebayimg.com/00/s/MTUwMFgxMDEy/z/eBMAAOSwKjhjB3P3/$_57.JPG?set_id=880000500F"
+        },
+        {
+            "title": "Chernobyl",
+            "image": "https://m.media-amazon.com/images/I/81XD4UHk6mL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "The Sopranos",
+            "image": "https://m.media-amazon.com/images/I/51bRFz-av6L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "title": "Succession",
+            "image": "https://m.media-amazon.com/images/I/71Hq0RCLVDL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "The Wire",
+            "image": "https://m.media-amazon.com/images/I/8157ug7+K+L.jpg"
+        },
+        {
+            "title": "Silicon Valley",
+            "image": "https://i.etsystatic.com/43710319/r/il/411961/4969375385/il_fullxfull.4969375385_b94g.jpg"
+        },
+        {
+            "title": "Barry",
+            "image": "https://m.media-amazon.com/images/I/41tZiLPG2uL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Big Little Lies",
+            "image": "https://m.media-amazon.com/images/I/91nEnfUf6FL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Veep",
+            "image": "https://m.media-amazon.com/images/I/51XxaKXGucL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Watchmen",
+            "image": "https://m.media-amazon.com/images/I/715Y8zGQQsL._AC_UF894,1000_QL80_.jpg"
+        }
+    ],
+    "like": [
+        {
+            "title": "Paul American",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmQwMTE4ZTQtNWY5OC00OTM5LTliNmItMWFkY2YzZjVjOTBkXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+            "title": "Dune: Prophecy",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTc2YTFiOTItZmRiNi00OWE5LThhOTEtMmZhMTkzYmRiNjIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Pirates of the Caribbean",
             "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
         },
         {
-            "title": "Beetlejuice",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
+            "title": "The Walking Dead",
+            "image": "https://m.media-amazon.com/images/I/61g-Tch64uL.jpg"
         },
         {
-            "title": "Scream",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
+            "title": "Game of Thrones",
+            "image": "https://m.media-amazon.com/images/I/61+5mMtkPbL._AC_UF894,1000_QL80_.jpg"
         },
         {
-            "title": "Why Him?",
-            "image": "https://th.bing.com/th/id/R.1b4138cf663e817ae0e8b1b1e1eac8cd?rik=JczKz65FGKUa9g&riu=http%3a%2f%2fcollider.com%2fwp-content%2fuploads%2fpirates-of-the-caribbean-on-stranger-tides-movie-poster-02.jpg&ehk=2tXZQjVS0QSj8hl4bLUnN97zBWFVEiZovnGXLUOV7rI%3d&risl=&pid=ImgRaw&r=0"
+            "title": "Spider-Man",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Hunger Games",
+            "image": "https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title": "Kingdom of the Planet of the Apes",
+            "image": "https://m.media-amazon.com/images/I/81PqziEQvBL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Stuart Little",
+            "image": "https://resizing.flixster.com/oa2WPTksS7zHEpD71nHdWUvWFL8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24380_p_v10_ae.jpg"
+        },
+        {
+            "title": "Companion",
+            "image": "https://m.media-amazon.com/images/S/pv-target-images/3b1989d8c80da2b8252b7b570dcfc6a5ef76a7d1122a2645be0464a3cd828e0a.jpg"
         }
     ]
 }

@@ -1,62 +1,121 @@
-@use "../../styles/colors" as *;
-@use "../../styles/mixins" as *;
-
 .header {
-    padding: 1.5rem 1rem;
-    background-color: $Graphite;
+    width: 100%;
+    z-index: 100;
+    background-color: rgba(255, 255, 255, 0.05); 
+    backdrop-filter: blur(100px);
     display: flex;
-    flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    gap: 1.25rem;
-
-    @include tablet {
-        flex-direction: row;
-        padding: 1.75rem 2rem;
+    padding: 0.8rem 2.5rem;
+    color: white;
+  
+    &__left {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
     }
-
-    @include desktop {
-        padding: 1.75rem 8rem;
+  
+    &__nav-group {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start; 
     }
-
-    &__image {
-        height: 1.75rem;
+  
+    &__logo-img {
+      height: 1rem;
+      object-fit: contain;
+      margin-left: 2rem;
     }
-
+  
     &__links {
-        color: $Cloud;
-        display: flex;
-        width: 100%;
-        justify-content: space-around;
-
-        @include tablet {
-            width: auto;
-            gap: .5rem;
-        }
-
-        .active {
-            color: $White;
-            background-color: $Instock-Black;
-        }
+      display: flex;
+      gap: 2rem;
+      margin-bottom: 4px;
     }
-
+  
     &__link {
-        flex: 1;
-        height: 2.25rem;
-        border-radius: 1.25rem;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-
-        @include tablet {
-            padding: 0 1rem;
-            height: 2.375rem;
-
-        }
-
-        &:hover {
-            color: $White;
-            text-decoration: underline;
-        }
+      position: relative;
+      text-decoration: none;
+      color: #ccc;
+      font-size: 1rem;
+      font-weight: 500;
+      transition: color 0.2s ease;
+  
+      &.active {
+        color: white;
+        font-weight: 700;
+      }
+  
+      &.active::after {
+        content: '';
+        position: absolute;
+        bottom: -6px;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: white;
+      }
+  
+      &:hover {
+        color: white;
+      }
     }
-}
+  
+    &__pagination {
+      display: flex;
+      gap: 6px;
+      margin-left: 14rem;
+
+  
+      &-dot {
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        margin-top: 0.8rem;
+        background-color: rgba(255, 255, 255, 0.25);
+        transition: background-color 0.2s ease;
+  
+        &.active {
+          background-color: white;
+        }
+      }
+    }
+  
+    &__beta {
+      background-color: #444;
+      color: #ccc;
+      font-size: 0.6rem;
+      padding: 2px 5px;
+      margin-left: 6px;
+      border-radius: 2px;
+      text-transform: uppercase;
+    }
+  
+    &__right {
+      display: flex;
+      align-items: center;
+      gap: 1.8rem;
+      margin-right: 1rem;
+    }
+  
+    &__icon {
+      font-size: 1.4rem;
+      color: white;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+  
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  
+    &__avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid white;
+      cursor: pointer;
+    }
+  }
+  

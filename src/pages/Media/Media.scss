@@ -1,0 +1,76 @@
+.video-overlay {
+    margin-bottom: 50vh;
+}
+
+.close-btn {
+    position: 'absolute';
+    top: '20px';
+    right: '20px';
+    zIndex: 100;
+    background: 'rgba(0,0,0,0.5)';
+    color: 'white';
+    border: 'none';
+    borderRadius: '50%';
+    width: '40px';
+    height: '40px';
+    fontSize: '24px';
+    display: 'flex';
+    alignItems: 'center';
+    justifyContent: 'center';
+    cursor: 'pointer';
+}
+
+
+.mode-selection {
+    margin-top: 100px;
+}
+
+
+.left-select {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    background-color: rgb(11, 41, 161);
+}
+
+.options {
+    margin-top: 200px;
+    display: flex;
+    gap: 100px;
+
+    button {
+        background-color: rgb(11, 41, 161);
+    }
+
+    button:hover {
+        color: white;
+    }
+}
+
+.testing {
+    margin-top: 300px;
+    height: 100px;
+    weight: 100px;
+
+}
+
+.testing-title {
+    margin-bottom: 20px;
+}
+
+.choose {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+
+    button {
+        background-color: rgb(11, 41, 161);
+        color: white;
+
+    }
+
+    button:hover {
+        border: none;
+    }
+}
